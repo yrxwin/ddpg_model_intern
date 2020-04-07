@@ -2,7 +2,7 @@ Copyright 2018, Yintech Innovation Labs, All rights reserved.
 
 Written by Hanxiong Wang.
 
-# DDPG model code introducetion
+# DDPG model code introduction
 
 In the source code, the mainly components are two classes: 
 * ddpg_trading_train in stock_model_train.py
